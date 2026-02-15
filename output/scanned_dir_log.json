@@ -1,0 +1,232 @@
+{
+    "files": [
+        {
+            "name": "data",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data",
+            "size": "416 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "students_raw.csv",
+            "type": "file",
+            "extension": ".csv",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/students_raw.csv",
+            "size": "74 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "inventory_t2.csv",
+            "type": "file",
+            "extension": ".csv",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/inventory_t2.csv",
+            "size": "46 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-15 12:21:50.033824",
+            "accessible": true
+        },
+        {
+            "name": "inventory_t1.csv",
+            "type": "file",
+            "extension": ".csv",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/inventory_t1.csv",
+            "size": "47 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "users.json",
+            "type": "file",
+            "extension": ".json",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/users.json",
+            "size": "29615 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "json_data",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/json_data",
+            "size": "128 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "data1.json",
+            "type": "file",
+            "extension": ".json",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/json_data/data1.json",
+            "size": "61 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "data2.json",
+            "type": "file",
+            "extension": ".json",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/json_data/data2.json",
+            "size": "47 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "credentials.csv",
+            "type": "file",
+            "extension": ".csv",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/credentials.csv",
+            "size": "159 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "raw_dump.txt",
+            "type": "file",
+            "extension": ".txt",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/raw_dump.txt",
+            "size": "161 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "logs",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/logs",
+            "size": "128 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "app2.log",
+            "type": "file",
+            "extension": ".log",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/logs/app2.log",
+            "size": "1782 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "app1.log",
+            "type": "file",
+            "extension": ".log",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/logs/app1.log",
+            "size": "1822 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "sample_dir",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/sample_dir",
+            "size": "160 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "b.log",
+            "type": "file",
+            "extension": ".log",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/sample_dir/b.log",
+            "size": "74 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "subdir",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/sample_dir/subdir",
+            "size": "96 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "c.csv",
+            "type": "file",
+            "extension": ".csv",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/sample_dir/subdir/c.csv",
+            "size": "74 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "a.txt",
+            "type": "file",
+            "extension": ".txt",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/sample_dir/a.txt",
+            "size": "74 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "contacts.txt",
+            "type": "file",
+            "extension": ".txt",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/contacts.txt",
+            "size": "206 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "texts",
+            "type": "directory",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/texts",
+            "size": "128 bytes",
+            "created_at": "2026-02-09 12:29:48",
+            "modified_at": "2026-02-09 12:29:48",
+            "accessible": true
+        },
+        {
+            "name": "doc1.txt",
+            "type": "file",
+            "extension": ".txt",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/texts/doc1.txt",
+            "size": "91 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        },
+        {
+            "name": "doc2.txt",
+            "type": "file",
+            "extension": ".txt",
+            "path": "/Users/piyushiso/Documents/Code/Sessions/AI with Python/ai-101/data/texts/doc2.txt",
+            "size": "39 bytes",
+            "created_at": "2026-02-09 12:35:17",
+            "modified_at": "2026-02-09 12:35:17",
+            "accessible": true
+        }
+    ],
+    "extensions": [
+        ".csv",
+        ".log",
+        ".txt",
+        "directory",
+        ".json"
+    ],
+    "extensions_count": {
+        "directory": 6,
+        ".csv": 5,
+        ".json": 3,
+        ".txt": 5,
+        ".log": 3
+    }
+}
