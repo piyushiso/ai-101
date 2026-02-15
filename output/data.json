@@ -1,0 +1,13 @@
+{
+    "emails": [
+        "alice@gmail.com",
+        "charlie@yahoo.com",
+        "daisy@mail.com"
+    ],
+    "contacts": [
+        "123-456-7890",
+        "(555) 123-4567",
+        "111-222-3333",
+        "123-456-7890"
+    ]
+}

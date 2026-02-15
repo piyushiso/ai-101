@@ -1,0 +1,5 @@
+
+Contact admin at admin@example.com or support@mail.org
+Server at 192.168.1.1 failed on 2024-10-05
+Random garbage line
+Another IP 10.0.0.25 logged on 05/12/2023

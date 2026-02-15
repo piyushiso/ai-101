@@ -1,22 +1,46 @@
-ROWS = 3
-COLS = 5
+# student = {
+#     'name': 'Ram',
+#     'roll': 1,
+#     'hasScholarship': False
+# }
 
-all_seats = [
-    [f"{chr(65 + r)}{c}" for c in range(COLS)]
-    for r in range(ROWS)
-]
+# for k, v in student.items():
+#     print(k, v)
 
-reserved = {}
+# ID = 1
+# print(ID)
+# ID = 2
+# print(ID)
 
-def seats():
-    for i in range(ROWS):
-        print(f"ROW {i+1}:\t", end='')
-        for j in range(COLS):
-            seat = all_seats[i][j]
-            print("X" if seat in reserved else seat, end=' ')
-        print()
+# for _ in range(2, 5):
+#     print("Hello" )
+# a = 5
+# b = 5
+# print(id(a) == id(b))
+# print(id(a) is id(a))
 
-seats()
+# isRaining = True
+# print(type(isRaining))
+
+# ROWS = 3
+# COLS = 5
+
+# all_seats = [
+#     [f"{chr(65 + r)}{c}" for c in range(COLS)]
+#     for r in range(ROWS)
+# ]
+
+# reserved = {}
+
+# def seats():
+#     for i in range(ROWS):
+#         print(f"ROW {i+1}:\t", end='')
+#         for j in range(COLS):
+#             seat = all_seats[i][j]
+#             print("X" if seat in reserved else seat, end=' ')
+#         print()
+
+# seats()
 
 # print(all_seats)
 # print(any("A1" in row for row in all_seats))
